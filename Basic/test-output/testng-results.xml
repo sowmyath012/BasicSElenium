@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-20T12:00:29 IST" name="Suite" finished-at="2023-05-20T12:00:37 IST" duration-ms="8266">
+    <groups>
+    </groups>
+    <test started-at="2023-05-20T12:00:29 IST" name="TestRunner1" finished-at="2023-05-20T12:00:34 IST" duration-ms="5366">
+      <class name="allocate.Travel">
+        <test-method signature="site()[pri:0, instance:allocate.Travel@759d26fb]" started-at="2023-05-20T12:00:29 IST" name="site" finished-at="2023-05-20T12:00:34 IST" duration-ms="5332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- site -->
+      </class> <!-- allocate.Travel -->
+    </test> <!-- TestRunner1 -->
+    <test started-at="2023-05-20T12:00:34 IST" name="TestRunner2" finished-at="2023-05-20T12:00:37 IST" duration-ms="2842">
+      <class name="text.Flip">
+        <test-method signature="m5()[pri:0, instance:text.Flip@f0da945]" started-at="2023-05-20T12:00:34 IST" name="m5" finished-at="2023-05-20T12:00:37 IST" duration-ms="2837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m5 -->
+      </class> <!-- text.Flip -->
+    </test> <!-- TestRunner2 -->
+  </suite> <!-- Suite -->
+</testng-results>
