@@ -9,7 +9,7 @@ public class Facebook {
 	public void m2(){
 		  WebDriver driver=new ChromeDriver();
 		  driver.get("https://www.facebook.com/");
-
+//new user
 	}
 
 }
