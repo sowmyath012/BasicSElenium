@@ -18,6 +18,7 @@ public class Block {
 		   WebElement data1 = driver.findElement(By.xpath("//div[text()='APPLE iPhone 13 (Pink, 128 GB)']"+"/ancestor::div[@class='_3pLy-c row']"+"/descendant::div[text()='₹64,999']"));
          String value = data1.getText();
          System.out.println(value);
+         //1st push
 		 
 	}
 
